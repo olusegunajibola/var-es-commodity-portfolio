@@ -1,0 +1,23 @@
+S/No,Ticker,Commodity,Datatype,Time Range,Source
+1,GC=F,Gold,Numeric,January 2018 to December 2022',Yahoo Finance
+2,HG=F,Copper,Numeric,January 2018 to December 2022',Yahoo Finance
+3,CL=F,Crude Oil Sep 23,Numeric,January 2018 to December 2022',Yahoo Finance
+4,GD=F,S&P-GSCI Commodity Index Future,Numeric,January 2018 to December 2022',Yahoo Finance
+5,PL=F,Platinum Oct 23,Numeric,January 2018 to December 2022',Yahoo Finance
+6,SI=F,Silver,Numeric,January 2018 to December 2022',Yahoo Finance
+7,HO=F,Heating Oil Aug 23,Numeric,January 2018 to December 2022',Yahoo Finance
+8,NG=F,Natural Gas Aug 23,Numeric,January 2018 to December 2022',Yahoo Finance
+9,ZC=F,"Corn Futures, Dec-2023",Numeric,January 2018 to December 2022',Yahoo Finance
+10,ZO=F,"Oat Futures, Dec-2023",Numeric,January 2018 to December 2022',Yahoo Finance
+11,KE=F,"KC HRW Wheat Futures, Sep-2023",Numeric,January 2018 to December 2022',Yahoo Finance
+12,ZR=F,"Rough Rice Futures, Sep-2023",Numeric,January 2018 to December 2022',Yahoo Finance
+13,ZL=F,"Soybean Oil Futures, Dec-2023",Numeric,January 2018 to December 2022',Yahoo Finance
+14,ZS=F,"Soybean Futures, Nov-2023",Numeric,January 2018 to December 2022',Yahoo Finance
+15,HE=F,"Lean Hogs Futures, Aug-2023",Numeric,January 2018 to December 2022',Yahoo Finance
+16,LE=F,"Live Cattle Futures, Aug-2023",Numeric,January 2018 to December 2022',Yahoo Finance
+17,CC=F,Cocoa Sep 23,Numeric,January 2018 to December 2022',Yahoo Finance
+18,KC=F,Coffee Sep 23,Numeric,January 2018 to December 2022',Yahoo Finance
+19,CT=F,Cotton Oct 23,Numeric,January 2018 to December 2022',Yahoo Finance
+20,LBS=F,Random Length Lumber Futures,Numeric,January 2018 to December 2022',Yahoo Finance
+21,OJ=F,Orange Juice Sep 23,Numeric,January 2018 to December 2022',Yahoo Finance
+22,SB=F,Sugar #11 Oct 23,Numeric,January 2018 to December 2022',Yahoo Finance

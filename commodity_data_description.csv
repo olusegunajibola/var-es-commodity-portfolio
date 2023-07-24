@@ -1,0 +1,23 @@
+,Commodity
+GC=F,Gold
+HG=F,Copper
+CL=F,Crude Oil Sep 23
+GD=F,S&P-GSCI Commodity Index Future
+PL=F,Platinum Oct 23
+SI=F,Silver
+HO=F,Heating Oil Aug 23
+NG=F,Natural Gas Aug 23
+ZC=F,"Corn Futures, Dec-2023"
+ZO=F,"Oat Futures, Dec-2023"
+KE=F,"KC HRW Wheat Futures, Sep-2023"
+ZR=F,"Rough Rice Futures, Sep-2023"
+ZL=F,"Soybean Oil Futures, Dec-2023"
+ZS=F,"Soybean Futures, Nov-2023"
+HE=F,"Lean Hogs Futures, Aug-2023"
+LE=F,"Live Cattle Futures, Aug-2023"
+CC=F,Cocoa Sep 23
+KC=F,Coffee Sep 23
+CT=F,Cotton Oct 23
+LBS=F,Random Length Lumber Futures
+OJ=F,Orange Juice Sep 23
+SB=F,Sugar #11 Oct 23
